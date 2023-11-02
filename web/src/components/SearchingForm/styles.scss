@@ -1,0 +1,17 @@
+div.searching-form {
+  max-width: 800px;
+
+  margin-top: 36px;
+
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+  gap: 24px;
+}
+
+div.searching-form input {
+  width: 392px;
+  height: 36px;
+  padding-left: 4px;
+}
